@@ -38,3 +38,54 @@ body {
 .button:active {
   border: 5px solid #ffd300;
 }
+
+/* Random Number */
+
+
+#numGen {
+
+  width: 220px;
+  padding: 50px;
+  margin: auto;
+  border: 2px solid var(--color-hyper-500);
+  background: var(--color-800);
+  border-radius: 12px;
+  text-align: center;
+  font-weight: bold;
+  font-size:4em;
+  font-family: 'Rubik', sans-serif;
+  
+}
+
+#But {
+ 
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    margin: 30px 0 50px 0;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+#Generate {
+    border: 1px solid var(--color-paleBlue);
+    width: 25%;
+    padding:10px;
+
+    font-size: 14px;
+    border-radius: 12px;
+    background-color: var(--color-hyper-500);
+    cursor: pointer;
+    color: #66C4FF;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+
+}
+
+#Generate:hover {
+    transform: scale(1.15);
+    background-color: #66C4FF;
+    color: var(--color-hyper-500);
+    border: 1px solid var(--color-hyper-500);
+}
