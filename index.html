@@ -13,6 +13,18 @@
 <body>
   <div class="container">
     <h1>Random Number Generator</h1>
+      <div id="numGen">
+        <script>
+                 var number = Math.random();
+                number *= 100
+                number = Math.round(number)
+                document.write(number)
+                document.getElementById('numGen').style.color = '#66C4FF';
+        
+        </script>
+    
+    </div>    
+
     <button id="clap-button" class="button">👏</button>
   </div>
 </body>
