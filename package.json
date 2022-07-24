@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^10.11.1"
+  }
+}
