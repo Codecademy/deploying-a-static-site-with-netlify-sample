@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d0f25182-6be9-41bd-87b9-14bafe857717/deploy-status?branch=patch-1)](https://app.netlify.com/sites/netify-deploying-static-site-321/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3087df7-a043-438e-b95c-e147ce11d23f/deploy-status?branch=patch-1)](https://app.netlify.com/sites/venerable-bienenstitch-3eb5f5/deploys)
+
+
 ## Deploying a Static Site with Netlify
 
 View my netlify website [here](https://netify-deploying-static-site-321.netlify.app/).
