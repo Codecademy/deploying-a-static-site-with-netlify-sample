@@ -3,7 +3,7 @@
 
 ## Deploying a Static Site with Netlify
 
-View my netlify website [here](https://netify-deploying-static-site-321.netlify.app/).
+View my netlify website [here](https://netlify-app-1234.netlify.app/).
 
 Hello! This GitHub repo is intended to be used with the article [Deploying a Static Site with Netlify](https://www.codecademy.com/articles/deploying-a-static-site-with-netlify).
 
